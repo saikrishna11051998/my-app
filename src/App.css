@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+table {
+  align-items: center;
+ 
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.center {
+  margin: auto;
+  
+  width: 50%;
+  border: 3px solid #040404;
+  padding: 100px;
+}
+
+.status-pending {
+  color: red;
+}
+
+.status-delivered {
+  color: green;
+}
+
+
+
+
+
